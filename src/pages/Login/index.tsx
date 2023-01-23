@@ -1,3 +1,3 @@
 import { Heading } from "@chakra-ui/react";
 
-export const Login = () => <Heading>Login develop</Heading>;
+export const Login = () => <Heading>Login </Heading>;
